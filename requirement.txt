@@ -1,0 +1,19 @@
+# Data handling
+numpy
+pandas
+
+# Deep Learning
+tensorflow
+keras
+
+# Image processing
+opencv-python
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Colab Notebook 
+Colab
+notebook
