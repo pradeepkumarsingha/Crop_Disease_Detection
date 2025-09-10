@@ -68,4 +68,4 @@ Feel free to open issues or submit pull requests for improvements.
 
 **Pradeep Kumar Singha**  
 - **GitHub:** [github.com/pradeepkumarsingha](https://github.com/pradeepkumarsingha)  
-- **Email:** [pradeep@example.com](mailto:mr.pradeepkumarsingha@gmail.com)
+- **Email:** [mr.pradeepkumarsingha@gmail.com](mailto:mr.pradeepkumarsingha@gmail.com)
